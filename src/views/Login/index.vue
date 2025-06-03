@@ -115,7 +115,7 @@ export default {
   border-radius: 4px;
   background-color: #444444;
   color: white;
-  border-bottom: 1px solid orange;
+  border-bottom: 1px solid #6eb0fa;
 }
 
 .empty-box {
@@ -133,7 +133,7 @@ export default {
 
 .login-container .submit-btn {
   width: 100%;
-  background-color: #e50914;
+  background-color: rgb(59 130 246);
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -143,7 +143,7 @@ export default {
 }
 
 .login-container .submit-btn:hover {
-  background-color: #f40612;
+  background-color: rgb(32, 89, 181);
 }
 
 .remember-me {
